@@ -1,3 +1,5 @@
+<h1>The ASCII Ascent</h1>
+
 Designed and implemented a terminal-based platformer game in C++, drawing inspiration from the Super Mario series. The game features three distinct levels, each introducing progressively challenging enemies as the player advances. The project involved:
 
 Implementing core game mechanics such as jumping, running, and collision detection using custom C++ algorithms.
